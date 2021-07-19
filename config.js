@@ -4,7 +4,6 @@ const CONFIG = {
     Mà sao cậu cứ đi nhầm đường
     Lạc vào tim tớ lẻ loi
     Đằng sau chữ yêu đây là thương`
-    Tớ có điều này muốn hỏi cậu,
     btnIntro: 'okii',
     title: 'Cậu thích tớ phải ko ? 😙',
     desc: 'Nếu cậu ko trả lời mà thoát ra tức là muốn làm ny tớ rùi đó nha :3 ',
